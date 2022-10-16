@@ -8,6 +8,8 @@ shareIcon.addEventListener('mouseover', function(){
  
 });
 
+
+//Function
 function handleSizeChange(e) {
     if (e.matches) {
         shareDiv.addEventListener('mouseenter', function(){
